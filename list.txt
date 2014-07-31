@@ -1,0 +1,2 @@
+Editores de código
+	Sublime Text | 31/07/2014 | Editor escrito en python extendible con plugin y con multicursor. | Windows, Mac, Linux
