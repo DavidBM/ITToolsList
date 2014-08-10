@@ -1,5 +1,5 @@
 Editores de código
-	Sublime Text | 31/07/2014 | Editor escrito en python extendible con plugin y con multicursor. | Windows, Mac, Linux
+	Sublime Text | 31/07/2014 | Extensible editor written in python with plugins and multi cursor. | Windows, Mac, Linux
 
 javascript
 	Mocha | 09/08/14 | JavaScript test framework running on node.js and the browser, making asynchronous testing simple and fun. | Windows, Mac, Linux
