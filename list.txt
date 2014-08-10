@@ -1,2 +1,12 @@
 Editores de código
 	Sublime Text | 31/07/2014 | Editor escrito en python extendible con plugin y con multicursor. | Windows, Mac, Linux
+
+javascript
+	Mocha | 09/08/14 | JavaScript test framework running on node.js and the browser, making asynchronous testing simple and fun. | Windows, Mac, Linux
+	PhantomJS | 09/08/14 | Headless WebKit scriptable with a JavaScript API. | windows, Mac, Linux
+	Casper.js | 09/08/14 | Navigation scripting & testing utility for PhantomJS and SlimerJS written in Javascript. | windows, Mac, Linux
+
+Node.js
+	Express | 09/08/14 | Web development framework for node.js. | windows, Mac, Linux
+	zombie.js | 09/08/14 | headless full-stack testing using Node.js. | windows, Mac, Linux
+	MEAN.js | 09/08/14 |Full-stack JavaScript solution using MongoDB, Express, AngularJS, and Node.js | windows, Mac, Linux
