@@ -1,6 +1,8 @@
 Editores de código
 	Sublime Text | 31/07/2014 | Extensible editor written in python with plugins and multi cursor. | Windows, Mac, Linux
-
+	PhpStorm | 10/08/14 | Editor for PHP built on IntelliJ IDEA platform  | Windos, Mac, Linux
+	PyCharm | 10/08/14 | Editor for Python built on IntelliJ IDEA platform  | Windos, Mac, Linux
+	
 javascript
 	Mocha | 09/08/14 | JavaScript test framework running on node.js and the browser, making asynchronous testing simple and fun. | Windows, Mac, Linux
 	PhantomJS | 09/08/14 | Headless WebKit scriptable with a JavaScript API. | windows, Mac, Linux
@@ -10,3 +12,8 @@ Node.js
 	Express | 09/08/14 | Web development framework for node.js. | windows, Mac, Linux
 	zombie.js | 09/08/14 | headless full-stack testing using Node.js. | windows, Mac, Linux
 	MEAN.js | 09/08/14 |Full-stack JavaScript solution using MongoDB, Express, AngularJS, and Node.js | windows, Mac, Linux
+
+Python
+	Django | 10/08/14 | Web development framework for python | Windos, Mac, Linux
+	pip | 10/08/14 | A tool for installing and managing Python packages | Windos, Mac, Linux
+	South | 10/08/14 | intelligent schema and data migrations for ​Django projects | Windos, Mac, Linux
